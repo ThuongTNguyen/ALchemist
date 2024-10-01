@@ -1,4 +1,4 @@
-## Active Learning Benchmarking Framework
+## ALchemist: An Active Learning Benchmarking Framework
 
 This is a framework for benchmarking *Active Learning (AL)* algorithms.
 The only assumption made is this AL in the *batch* setting, i.e., you label a batch of instances
